@@ -1,1 +1,0 @@
-Upload index.html, pricing.html, style.css and script.js into your existing GitHub Pages publishing folder, replacing those files. The complete logo is embedded in both HTML files, so no image folder is needed. Keep your existing CNAME file if you use a custom domain.
